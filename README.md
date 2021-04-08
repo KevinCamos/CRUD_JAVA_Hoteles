@@ -1,2 +1,2 @@
 # CRUD_JAVA_Hoteles
-Primer proyecto del primer trimestre de 1º DAW
+Proyecto del primer trimestre de 1º DAW
